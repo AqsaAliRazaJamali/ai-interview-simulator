@@ -202,12 +202,18 @@ The AI evaluates each response based on:
 
 ## 👩‍💻 Author
 
-**Aqsa Jamali**
+<div align="center">
 
-GitHub: https://github.com/AqsaAliRazaJamali
+### **Aqsa Jamali**
+
+Passionate about **Artificial Intelligence, Python Development, and Software Engineering**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-AqsaAliRazaJamali-181717?style=for-the-badge&logo=github)](https://github.com/AqsaAliRazaJamali)
+
+</div>
 
 ---
 
-## 📄 License
+<div align="center">
 
-This project is licensed under the MIT License.
+⭐ If you find this repository helpful, consider giving it a star!
