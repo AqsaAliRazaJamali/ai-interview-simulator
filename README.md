@@ -124,3 +124,39 @@ http://localhost:5173
 ```
 
 ---
+
+## 📊 Evaluation Criteria
+
+The AI evaluates each response based on:
+
+- Technical Accuracy
+- Communication Skills
+- Confidence
+- Completeness
+- Overall Performance
+
+---
+
+## 🎯 Key Highlights
+
+- AI-generated interview questions
+- Real-time answer evaluation
+- Personalized improvement suggestions
+- Interactive full-stack web application
+- Google Gemini integration
+- Modern responsive UI
+- FastAPI REST backend
+
+---
+
+## 👩‍💻 Author
+
+**Aqsa Jamali**
+
+GitHub: https://github.com/AqsaAliRazaJamali
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
