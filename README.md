@@ -10,6 +10,8 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-blue?style=for-the-badge)
 
 An intelligent full-stack mock interview platform that simulates realistic technical and behavioral interviews using **Google Gemini 2.5 Flash**. The application generates AI-powered interview questions, evaluates candidate responses in real time, and provides detailed feedback to help users improve their interview performance.
 
