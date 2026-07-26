@@ -17,18 +17,18 @@ AI Interview Simulator is designed to help students, job seekers, and profession
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎯 **Role-Based Configuration:** Customize interview sessions by job role, experience level, and interview type.
-- ⚡ **AI-Powered Question Generation:** Dynamic questions tailored to user skills and background.
-- 📊 **Real-Time Evaluation:** Instant scoring across Technical Accuracy, Communication, Confidence, and Completeness.
-- 💡 **Actionable Feedback:** Get detailed strengths, areas for improvement, and model answers after every response.
-- 🏆 **Comprehensive Final Report:** End-of-session performance summary with cumulative score tracking.
-- 🌙 **Modern Dark SaaS UI:** Clean, developer-focused interface designed for optimal user experience.
+-  **Role-Based Configuration:** Customize interview sessions by job role, experience level, and interview type.
+-  **AI-Powered Question Generation:** Dynamic questions tailored to user skills and background.
+-  **Real-Time Evaluation:** Instant scoring across Technical Accuracy, Communication, Confidence, and Completeness.
+-  **Actionable Feedback:** Get detailed strengths, areas for improvement, and model answers after every response.
+-  **Comprehensive Final Report:** End-of-session performance summary with cumulative score tracking.
+-  **Modern Dark SaaS UI:** Clean, developer-focused interface designed for optimal user experience.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework:** React + Vite
