@@ -43,6 +43,43 @@ Built with **React**, **TypeScript**, **Tailwind CSS**, **FastAPI**, and powered
 
 ---
 
+## 📂 Project Structure
+
+```text
+ai-interview-simulator/
+│
+├── backend/
+│   ├── app/
+│   │   ├── prompts.py
+│   │   ├── schemas.py
+│   │   └── services.py
+│   ├── main.py
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── src/
+│   │   ├── assets/
+│   │   │   └── hero.png
+│   │   ├── components/
+│   │   │   ├── FinalReport.tsx
+│   │   │   ├── InterviewSession.tsx
+│   │   │   └── SetupConfig.tsx
+│   │   ├── api.ts
+│   │   ├── App.css
+│   │   ├── App.tsx
+│   │   ├── index.css
+│   │   ├── main.tsx
+│   │   └── types.ts
+│   ├── package.json
+│   ├── tsconfig.app.json
+│   ├── tsconfig.json
+│   ├── tsconfig.node.json
+│   └── vite.config.ts
+│
+└── README.md
+```
+
+---
 ## ▶️ How to Run
 
 ### 1. Clone the Repository
