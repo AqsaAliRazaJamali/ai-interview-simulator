@@ -42,3 +42,85 @@ Built with **React**, **TypeScript**, **Tailwind CSS**, **FastAPI**, and powered
 - Google Gemini API Key
 
 ---
+
+## ▶️ How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/AqsaAliRazaJamali/ai-interview-simulator.git
+```
+
+### 2. Backend Setup
+
+Navigate to the backend folder:
+
+```bash
+cd backend
+```
+
+Create and activate a virtual environment:
+
+```bash
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+# macOS/Linux
+source venv/bin/activate
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Create a `.env` file inside the backend folder:
+
+```env
+GEMINI_API_KEY=your_gemini_api_key_here
+```
+
+Start the backend server:
+
+```bash
+python main.py
+```
+
+Backend runs at:
+
+```text
+http://127.0.0.1:8000
+```
+
+---
+
+### 3. Frontend Setup
+
+Navigate to the frontend folder:
+
+```bash
+cd frontend
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Frontend runs at:
+
+```text
+http://localhost:5173
+```
+
+---
