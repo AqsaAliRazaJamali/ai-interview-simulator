@@ -176,7 +176,7 @@ http://localhost:5173
 
 ---
 
-## 📊 Evaluation Criteria
+##  Evaluation Criteria
 
 The AI evaluates each response based on:
 
@@ -188,7 +188,7 @@ The AI evaluates each response based on:
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 
 - AI-generated interview questions
 - Real-time answer evaluation
