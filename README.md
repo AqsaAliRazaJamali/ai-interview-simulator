@@ -7,9 +7,13 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-An intelligent, full-stack mock interview and career preparation platform that simulates realistic technical and behavioral interview sessions using Large Language Models (LLMs).
+An intelligent full-stack mock interview platform that simulates realistic technical and behavioral interviews using **Google Gemini 2.5 Flash**. The application generates AI-powered interview questions, evaluates candidate responses in real time, and provides detailed feedback to help users improve their interview performance.
 
-Built with **React**, **TypeScript**, **Tailwind CSS**, **FastAPI**, and powered by **Google Gemini 2.5 Flash**.
+---
+
+## 📌 Project Overview
+
+AI Interview Simulator is designed to help students, job seekers, and professionals prepare for interviews through interactive AI-driven sessions. Users can customize interviews based on role, experience level, and interview type while receiving instant performance analysis and personalized improvement suggestions.
 
 ---
 
