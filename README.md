@@ -1,5 +1,12 @@
 # 🚀 AI Interview Simulator
 
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini%202.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 An intelligent, full-stack mock interview and career preparation platform that simulates realistic technical and behavioral interview sessions using Large Language Models (LLMs).
 
 Built with **React**, **TypeScript**, **Tailwind CSS**, **FastAPI**, and powered by **Google Gemini 2.5 Flash**.
