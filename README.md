@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-An intelligent full-stack mock interview platform that simulates realistic technical and behavioral interviews using **Google Gemini 2.5 Flash**. The application generates AI-powered interview questions, evaluates candidate responses in real time, and provides detailed feedback to help users improve their interview performance.
+An intelligent Full-stack mock interview platform that simulates realistic technical and behavioral interviews using **Google Gemini 2.5 Flash**. The application generates AI-powered interview questions, evaluates candidate responses in real time, and provides detailed feedback to help users improve their interview performance.
 
 ---
 
