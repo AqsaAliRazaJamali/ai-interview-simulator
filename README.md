@@ -57,7 +57,7 @@ AI Interview Simulator is designed to help students, job seekers, and profession
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ai-interview-simulator/
